@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://dje7oficial.github.io/preloaderJSLottie/animacaoMaozinha.json',
+        path: 'https://dje7oficial.github.io/preloaderJSLottie/animacaomaozinha1.json',
     });
 }
 
